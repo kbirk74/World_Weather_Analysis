@@ -1,3 +1,9 @@
+# Add files to gitignor
+config.py
+API_practice.ipynd
+API_practice_New.ipynd
+random_numbers.ipynd
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
